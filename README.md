@@ -1,6 +1,5 @@
 # Entrenamiento GIT y Github
 
-<<<<<<< HEAD
 ## Ciclo de GIT
 
 ![](git-flujo.png)
@@ -53,6 +52,4 @@ Subir cambios locales al servidor remoto de github
 
 Descargar cambios realizados en github en el repo local
 >`git pull`
-=======
-## Rama1
->>>>>>> rama1
+
